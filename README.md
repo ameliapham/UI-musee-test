@@ -4,16 +4,14 @@ My take on Kevin Pham's [awesome design](https://dribbble.com/shots/14281766-Anc
 
 ## Getting Started
 
-First, run the development server:
+There are a problem with yarn, we need to do:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+npm install -g pnpm
+git clone https://github.com/barvian/musee](https://github.com/ameliapham/UI-musee-test.git)
+cd UI-musee-test
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
