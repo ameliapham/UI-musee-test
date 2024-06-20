@@ -15,4 +15,5 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+(If the default port 3000 is already in use by another application, the server will choose port 3001 : [http://localhost:3001](http://localhost:3001))
 
